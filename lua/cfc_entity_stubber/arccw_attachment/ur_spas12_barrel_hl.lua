@@ -18,7 +18,7 @@ cfcEntityStubber.registerStub( function()
             Mult_HipDispersion = 0.8,
 
             Mult_Num = 1.5, -- Orig: 2
-            Override_AmmoPerShot = 1.5, -- Orig: 2
+            Override_AmmoPerShot = 2,
             Mult_Damage = 1.5, -- Orig: 2
             Mult_DamageMin = 1.5, -- Orig: 2
             Mult_Recoil = 1.5,
